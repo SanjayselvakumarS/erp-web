@@ -2,7 +2,7 @@
 
 ## 🎯 Overview
 
-The College ERP system now has a **Django REST API backend** with a **modern web frontend**. The system uses JWT authentication and provides role-based dashboards for Students, Teachers, and Admins.
+The College ERP system now has a **Django REST API backend** with a **modern web frontend**. The system uses JWT authentication and provides role-based dashboards for Students, Teachers, and Admins...
 
 ## 📁 Project Structure
 
